@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.first-part{
+    background-color: #1F2937;
+    color: white;
+    justify-content: center;
+    padding-bottom: 50px;
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 40px;
+}
+
+.header-link{
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.header-logo{
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.thiswebsite{
+    padding: 20px 40px;
+    display: flex;
+}
+
+.one{
+    width: 50%;
+}
+
+.one h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+.one .button{
+    background-color: blue;
+    border-radius: 5px;
+    padding: 5px;
+    width: 23%;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.two{
+    width: 50%;
+    background-color: gray;
+    text-align: center;
+    padding-top: 85px;
+}
+
+.second-part{
+    padding: 20px 40px;
+    justify-content: center;
+}
+
+.second-part h1{
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+.second{
+    display: flex;
+    padding: 60px;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+.box{
+    padding-bottom: 30px;
+    padding-top: 70px;
+    padding-right: 10px;
+    padding-left: 10px;
+    border: 2px solid blue;
+    border-radius: 5px;
+}
+
+.second p{
+    text-align: center;
+}
+
+.third-part{
+    background-color: #E5E7EB;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding-right: 60px;
+    padding-left: 60px;
+}
+
+.quote{
+   font-weight: lighter;
+   font-family: italic;
+   font-size: 36px;
+   color: #1E2937;
+}
+
+.thor{
+    padding-left: 400px;
+}
+
+.fourth-part{
+    padding: 20px 40px;
+}
+
+.main{
+    color: white;
+    padding: 20px;
+    background-color: #3882F6;
+    display: flex;
+    border-radius: 5px;
+}
+
+.button-1{
+    margin-top: 25px;
+    margin-left: 110px;
+    border: 1px solid white;
+    border-radius: 5px;
+    text-align: center;
+    padding: 3px;
+}
+
+#shit{
+    background-color: #1F2937;
+    color: white;
+    padding: 20px 0px;
+    text-align: center;
+}
